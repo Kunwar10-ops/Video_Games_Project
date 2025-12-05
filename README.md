@@ -1,2 +1,10 @@
-# Video_Games_Project
-Analysis of global video game sales and trends using Python (Pandas, NumPy, Seaborn, Matplotlib). Includes data cleaning, exploratory analysis, and visual insights.
+# Video Games Project
+
+This project analyzes video game sales data using Python. It includes:
+
+* Data cleaning and preprocessing  
+* Handling missing values  
+* Exploratory visualizations  
+* Insights on global and regional sales trends  
+
+Libraries used: Pandas, NumPy, Seaborn, Matplotlib  
